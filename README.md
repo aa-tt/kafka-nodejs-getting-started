@@ -12,3 +12,7 @@ https://www.confluent.io/resources/kafka-the-definitive-guide/
 
 Tutorial: presentation-
 https://cdn.confluent.io/wp-content/uploads/apache-kafka-internal-architecture.pptx?_ga=2.164870399.1515457535.1663444443-649847722.1663444443
+
+
+Tutorial: top use cases-
+https://developer.confluent.io/tutorials/#learn-the-basics
